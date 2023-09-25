@@ -1,2 +1,2 @@
-*My first Vagrant* _My first Vagrant_
-**Alx-Africa is amazing** __Alx-Africa is amazing__
+*My first Vagrant*
+**Alx-Africa is amazing**_
